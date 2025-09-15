@@ -1,6 +1,6 @@
 Link p/ visualização do site: https://gustavocaruso1.github.io/movielisting_reactjs
 
-
+Video de referência: https://www.youtube.com/watch?v=XqxUHVVO7-U
 
 # React + Vite
 
