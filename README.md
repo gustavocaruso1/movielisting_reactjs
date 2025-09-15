@@ -1,7 +1,5 @@
 Link p/ visualização do site: https://gustavocaruso1.github.io/movielisting_reactjs
 
-Video de referência: https://www.youtube.com/watch?v=XqxUHVVO7-U
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
